@@ -1,5 +1,4 @@
 import HTTPUtil from './HttpService'
-import * as utils from "../constants/utils";
 
 let UserService ={};
 
