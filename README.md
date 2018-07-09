@@ -8,7 +8,8 @@
 
 前提：react-native 环境（目前用0.55.6版本有bug，请用低一点的版本），模拟器或者真机。
 
-tips：react-native环境安装请参考 https://reactnative.cn/docs/0.51/getting-started.html#content
+tips：react-native 环境安装请参考 https://reactnative.cn/docs/0.51/getting-started.html#content
+
 模拟器：Genymotion；调试工具：React Native Debugger
 
 下载项目文件之后，本地项目文件夹下运行
