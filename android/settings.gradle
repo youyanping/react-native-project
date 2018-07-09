@@ -1,0 +1,3 @@
+rootProject.name = 'dpzx_dcw_app_delivery'
+
+include ':app'

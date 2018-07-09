@@ -1,0 +1,5 @@
+#配置路由
+npm install --save react-navigation
+
+#配置tab
+npm install --save react-native-tab-navigator

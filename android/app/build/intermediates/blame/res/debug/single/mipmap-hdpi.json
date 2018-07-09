@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\gitRepository\\react-native-project\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\gitRepository\\react-native-project\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\dpzx_dcw_app_delivery\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\dpzx_dcw_app_delivery\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
