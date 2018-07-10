@@ -2,7 +2,9 @@
 
 ## 项目介绍
 
-这是一个基于react-native框架，包含四个tab菜单切换，路由切换，接口数据请求，组件封装，工具类，写得比较简单，但是架子都有了。
+这是一个基于react-native框架，包含四个tab菜单切换，路由切换，接口数据请求，组件封装，工具类，写得比较简单，但是架子都有了（注意：不是一个完整的项目，只是提供一个项目开始的框架）。
+
+![image](https://github.com/youyanping/react-native-project/blob/master/src/resources/images/image5.png)
 
 ## 如何运行
 
@@ -21,4 +23,11 @@ $ npm install
 开启模拟器，运行项目
 
 $ react-native run-android
+
+## 项目截图
+
+![image](https://github.com/youyanping/react-native-project/blob/master/src/resources/images/image1.png)
+![image](https://github.com/youyanping/react-native-project/blob/master/src/resources/images/image2.png)
+![image](https://github.com/youyanping/react-native-project/blob/master/src/resources/images/image3.png)
+![image](https://github.com/youyanping/react-native-project/blob/master/src/resources/images/image4.png)
 
