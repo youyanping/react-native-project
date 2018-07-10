@@ -41,9 +41,9 @@ export default class LoginPage extends Component {
     render() {
 
         return (
-            <View style={{flex: 1,backgroundColor:'#fff'}}>
-                <Image style={{width:40,height:40}} source={require('../../resources/images/test.jpg')}/>
-                <View style={[styles.row]}>
+            <View style={{flex: 1,backgroundColor:'#fff',paddingLeft:20,paddingRight:20}}>
+                <Image style={{width:60,height:60,marginTop:80,marginLeft:utils.screenWidth/2-30,marginBottom:30}} source={require('../../resources/images/faxian_focus.png')}/>
+                <View style={[styles.row,{}]}>
                     <Text style={styles.text}>账号：</Text>
                     <TextInput style={styles.textInput}
                                {...this.props}
@@ -76,7 +76,7 @@ export default class LoginPage extends Component {
                     />
                 </View>
 
-                <TouchableOpacity onPress={()=>this.goPasswordReset()}>
+                <TouchableOpacity style={{padding:10}} onPress={()=>this.goPasswordReset()}>
                     <Text style={{textAlign:"right"}}>忘记密码</Text>
                 </TouchableOpacity>
 
@@ -103,13 +103,14 @@ const styles = StyleSheet.create({
         height:50,
         lineHeight:50,
         paddingRight:10,
-        paddingLeft:15,
         textAlign:'left',
         color:'#333'
     },
     textInput:{
         flex:1,
         height:50,
-        padding:0
+        padding:0,
+        borderBottomColor:"#e4e4e4",
+        borderBottomWidth:0.5
     }
 });
